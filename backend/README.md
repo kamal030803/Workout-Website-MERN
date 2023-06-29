@@ -1,17 +1,6 @@
 # Server-side Directory
 
-## Table of Contents
-
-- [Server-side Directory](#server-side-directory)
-  - [Table of Contents](#table-of-contents)
-  - [Installed NPM Packages](#installed-npm-packages)
-    - [Production Packages](#production-packages)
-    - [Development Packages](#development-packages)
-  - [Useful Resources](#useful-resources)
-
 ## Installed NPM Packages
-
-[(Back to top)](#table-of-contents)
 
 These packages are required to run this project smoothly without any errors.
 
@@ -30,6 +19,3 @@ These packages can be found in the `"devDependencies"` object inside the `packag
 
 - [nodemon](https://www.npmjs.com/package/nodemon) - Simple monitor script for use during development of a Node.js app.
 
-## Useful Resources
-
-[(Back to top)](#table-of-contents)
