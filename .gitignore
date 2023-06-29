@@ -1,0 +1,5 @@
+# Ignored Directories:
+node_modules/
+
+# Ignored Files:
+.env
