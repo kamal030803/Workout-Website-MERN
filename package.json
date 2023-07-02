@@ -9,6 +9,6 @@
     "install": "npm run install:frontend && npm run install:backend"
   },
   "keywords": ["MERN Stack", "Full-Stack", "Material UI"],
-  "author": "Kamal Anand",
+  "author": "KamalAnand",
   "license": "ISC",
 }
