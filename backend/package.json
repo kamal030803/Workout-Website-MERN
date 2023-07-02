@@ -16,7 +16,7 @@
     "CRUD",
     "CRUD Operations"
   ],
-  "author": "Kamal",
+  "author": "KamalAnand",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
